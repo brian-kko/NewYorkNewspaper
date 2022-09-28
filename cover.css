@@ -1,0 +1,17 @@
+.cover {
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  /* finish your styling of the cover div here! */
+}
+#title {
+font-size: 500%;
+}
+
+#subtitle {
+width: 100%;
+}
+
+#cover_image {
+
+}
